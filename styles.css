@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#controls {
+  margin-bottom: 20px;
+}
+
+#videoContainer {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+video {
+  border: 2px solid black;
+  border-radius: 10px;
+}
